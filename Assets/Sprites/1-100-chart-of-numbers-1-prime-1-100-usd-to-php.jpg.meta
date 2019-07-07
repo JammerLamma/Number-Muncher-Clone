@@ -1,0 +1,2199 @@
+fileFormatVersion: 2
+guid: b1c6ceaf182a9ee4bb3a963d310e3192
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_0
+    21300002: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_1
+    21300004: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_2
+    21300006: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_3
+    21300008: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_4
+    21300010: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_5
+    21300012: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_6
+    21300014: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_7
+    21300016: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_8
+    21300018: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_9
+    21300020: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_10
+    21300022: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_11
+    21300024: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_12
+    21300026: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_13
+    21300028: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_14
+    21300030: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_15
+    21300032: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_16
+    21300034: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_17
+    21300036: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_18
+    21300038: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_19
+    21300040: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_20
+    21300042: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_21
+    21300044: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_22
+    21300046: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_23
+    21300048: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_24
+    21300050: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_25
+    21300052: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_26
+    21300054: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_27
+    21300056: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_28
+    21300058: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_29
+    21300060: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_30
+    21300062: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_31
+    21300064: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_32
+    21300066: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_33
+    21300068: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_34
+    21300070: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_35
+    21300072: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_36
+    21300074: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_37
+    21300076: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_38
+    21300078: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_39
+    21300080: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_40
+    21300082: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_41
+    21300084: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_42
+    21300086: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_43
+    21300088: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_44
+    21300090: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_45
+    21300092: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_46
+    21300094: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_47
+    21300096: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_48
+    21300098: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_49
+    21300100: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_50
+    21300102: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_51
+    21300104: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_52
+    21300106: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_53
+    21300108: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_54
+    21300110: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_55
+    21300112: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_56
+    21300114: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_57
+    21300116: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_58
+    21300118: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_59
+    21300120: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_60
+    21300122: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_61
+    21300124: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_62
+    21300126: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_63
+    21300128: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_64
+    21300130: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_65
+    21300132: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_66
+    21300134: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_67
+    21300136: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_68
+    21300138: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_69
+    21300140: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_70
+    21300142: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_71
+    21300144: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_72
+    21300146: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_73
+    21300148: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_74
+    21300150: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_75
+    21300152: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_76
+    21300154: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_77
+    21300156: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_78
+    21300158: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_79
+    21300160: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_80
+    21300162: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_81
+    21300164: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_82
+    21300166: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_83
+    21300168: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_84
+    21300170: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_85
+    21300172: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_86
+    21300174: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_87
+    21300176: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_88
+    21300178: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_89
+    21300180: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_90
+    21300182: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_91
+    21300184: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_92
+    21300186: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_93
+    21300188: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_94
+    21300190: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_95
+    21300192: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_96
+    21300194: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_97
+    21300196: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_98
+    21300198: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_99
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 450
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d706deed024ca0f46b29012b1f242206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 450
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c733a992acf024b997f8eb1c6fecca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 450
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f956a4cd7a7369b4dbe672c0f3fdfada
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_3
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 450
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: affbc69fc5dd5964e82c5230ed5ec372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_4
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 450
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6e4f2b803b91e488503c45e8a02378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_5
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 450
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49337117a705b314b8d63680b4aa2555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_6
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 450
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca962e638003854a84523e0dd0e0fff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_7
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 450
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59edd85cec58e434d9ec0306e9b6fc8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_8
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 450
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8fd69b1faea014dae88a95703cdd5f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_9
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 450
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9006cd635996f4aa847deec04273b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0150bcff28d286d44950579960b81c3a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_11
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 400
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d38c5379db1d84f9860f6ac13afb75
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_12
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 400
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98975f8667765504faa4c530195766c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_13
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 400
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c49680ae5472146a0ba63e2904a01d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_14
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 400
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02fcfe7366743c4d862317194eae372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_15
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 400
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ccb49362796434e8ba85c33a85811a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_16
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 400
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26f6dcfc743f8e4880d62a562d4b348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_17
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 400
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebbaa2431aa327546bf9d46c886b34d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_18
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 400
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887da03e6d571f04d8553814c157014d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_19
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 400
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f7ad52dd0da1e4f99ea00df7a58a33
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 350
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043ad80667a84214fb53e9f0a9e686fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_21
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 350
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f2421eda3a28a47bea535856c10607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_22
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 350
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5eb90e95e44cd4292f1b9bb207e94f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_23
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 350
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d713e3caabb464f9b7724987094697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_24
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 350
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ccf7a474785eba42940df93a5f02df5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_25
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 350
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9333465985d008c4f909b7b100fdf892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_26
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 350
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a80cb5db36f76e4fb61cc8fa193d203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_27
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 350
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ee65e83e54c174ba8415f7a2876e2d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_28
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 350
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900f0952a6a8df64b9883c553ddb011e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_29
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 350
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4c3047d01d93549865b03a2b72ab4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c42ea986cd20964c974ea266e5edfb2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_31
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 300
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960a11c787315e1449ffc931ac47368b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_32
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 300
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8484d60020da04f8b67735dcacad98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_33
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 300
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59d1a30b06bc094b9597c8167d1cdbe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_34
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 300
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999cd1851d5f23e44b43432b458a4b50
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_35
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 300
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7178c3a0d605a4e82a58bace38bb05
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_36
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 300
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b80ac9d4f32ac946b09176c7c43ee5d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_37
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 300
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8c7327a9940d14d8877ebe29423a00
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_38
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 300
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd30f6600cb0234a8d008e2ac8538ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_39
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 300
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b11a58fa3a917f4ca0a6cfef86a48bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 250
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966486caacab3b645bbcda7759cec2e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_41
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 250
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0289ae4e0caceb741bac227d4d68cad6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_42
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 250
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4376083ed71bd945859891fb89f2fba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_43
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 250
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94458699792cd6845a34124ac9614305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_44
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 250
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec283fac74d1d964795e1792392a921b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_45
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 250
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed8478ee307a5848a5e23c474258455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_46
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 250
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f88637ee3af104abc5556ec8d539f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_47
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 250
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312724618d2e1e546b9dda5b664ab507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_48
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 250
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee174a6e3187bed4a9e08c8b58d5fd20
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_49
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 250
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f6de1443daa6c4f95ca412f7b123cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb699d29952fa1d48971535afbb68cb0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_51
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 200
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9858677a9bfa01849a1fa8cdebb052e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_52
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 200
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8adc17dddd62c943a920c14f911c76c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_53
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 200
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c152e467c22824428506196ac3dc68c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_54
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 200
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2e4779391fb5e4c9ad21412bf6e26e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_55
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 200
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845d274ef808985418f26034ff91d1ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_56
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 200
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5708098fc2c4d9e4daacb0748448ed4c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_57
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 200
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c664f67ceaf67a449d885364db9eb79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_58
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 200
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18c03b531747844f8549db250d4d257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_59
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 200
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f893dd5a5b76dbf4d8919681b0d785a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdff518e2af4b284bbbe48cd6f8dc711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_61
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 150
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43300cdade7db564f9b1280713a3ec57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_62
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 150
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3372cf5248013914db41959bb3362ab8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_63
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 150
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7470bb09dbebccd4b971093547a6c9c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_64
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 150
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994465b0174e10f449700d704ea210d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_65
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 150
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f2d9adca3e72e4ebae6c8aa67b8779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_66
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 150
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76802e8d0c82cf745bc8804026554f78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_67
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 150
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f98623bb9990124983c9a78f86ee6d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_68
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 150
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8a07f2a86b0bd40b4db4fd97e4ff93
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_69
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 150
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04586075eb7b59042b0fd0d1a7a32720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c291f538842c042a6148f3a9130569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_71
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 100
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06677b4a8a6612140a9c4ecff03aada3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_72
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 100
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd06bfc7789141b4aad386da597aa6ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_73
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 100
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c64355e8770104eaef952bff897bf2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_74
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 100
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459d48c983b4c4e44891efe10b8f6943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_75
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 100
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e78a49ea26cfd94e9264fc10cb40c13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_76
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 100
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5870b2628115eb469263ba71d2354f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_77
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 100
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d209cc530b7d6794d95e0ac0dfef5707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_78
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 100
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4add2c89a2f4c2438ca1090ecc6339c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_79
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 100
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46d72f44d61c23419eebe3722fc2d0d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 50
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193d4eae5c04d4c4db64f050faf7c462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_81
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 50
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b22c2b25a14d405479a74d348b26504e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_82
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 50
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2142fdc80fd807c469cf8f2541310752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_83
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 50
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a06a3b8c11ea742aacae53b49450ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_84
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 50
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7613313c44d40439b65e1d67d6b835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_85
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 50
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28f23394f5463a4ebfce843747bacb8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_86
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 50
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73955114b56e6794e83fb29e76b5e544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_87
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 50
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7727a6b2756dd274d8ba9ea74ab1e3e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_88
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 50
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4574187b547b3714e96385f79341dcfb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_89
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 50
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0847277ad860d634d86ce37128d76c20
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e53e539fa2fdfe46adf34436a763000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_91
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 0
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7366c08e8dff5fd4abea17907484bc20
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_92
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 0
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 541d31877e5b27949ae06580f567916a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_93
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 0
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcfc5fcb31e5f2f47ae7a03a87e2437f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_94
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 0
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe6ab853a84834498cdc50c2551501a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_95
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 0
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796bb6632be83a7459cce92b78db94a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_96
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 0
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a584144cd1f9411479938691e81a1430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_97
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 0
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4be089d5d276bf4ba9586f12bf9ae27
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_98
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 0
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42994973bc0f4444839214c49485992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-100-chart-of-numbers-1-prime-1-100-usd-to-php_99
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 0
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf016bfa435a87f4884555d9d33905a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: fbf8caa61900dc844b16e855fbe70637
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
