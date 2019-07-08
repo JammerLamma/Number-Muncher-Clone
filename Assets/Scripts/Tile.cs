@@ -11,7 +11,7 @@ namespace HA
         SpriteRenderer rend;
 
         private int tileNumber;
-        [SerializeField] bool isCorrect;
+        bool isCorrect;
         bool isWrong = false;
         bool isCollected = false;
 
