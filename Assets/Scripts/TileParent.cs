@@ -119,50 +119,62 @@ namespace HA
         private void AssignPrime()
         {
             int maxCorrect = 5;
-            for (int i = 1; i <= maxCorrect; i++)
+            for (int i = 1; i <= maxCorrect;)
             {
                 randomChild = children[UnityEngine.Random.Range(0, children.Count)];
-                int maxLength = primeNumbers.Count;
-                int tempTileNum = primeNumbers[UnityEngine.Random.Range(0, maxLength)];
-                randomChild.GetComponent<Tile>()._TileNumber = tempTileNum;
-                randomChild.GetComponent<Tile>()._IsCorrect = true;
-                correctOnBoard++;
-                randomChild.GetComponent<SpriteRenderer>().sprite = numberSprite[tempTileNum - 1];
-                Debug.Log(tempTileNum);
 
+                {
+                    if (randomChild.GetComponent<Tile>()._IsCorrect == false)
+                    {
+                        int maxLength = primeNumbers.Count;
+                        int tempTileNum = primeNumbers[UnityEngine.Random.Range(0, maxLength)];
+                        randomChild.GetComponent<Tile>()._TileNumber = tempTileNum;
+                        randomChild.GetComponent<Tile>()._IsCorrect = true;
+                        correctOnBoard++;
+                        randomChild.GetComponent<SpriteRenderer>().sprite = numberSprite[tempTileNum - 1];
+                        i++;
+                    }
+                }
             }
         }
 
         private void AssignEven()
         {
-            int maxCorrect = 5;
-            for (int i = 1; i <= maxCorrect; i++)
+            for (int i = 1; i <= maxCorrect;)
             {
-                randomChild = children[UnityEngine.Random.Range(0, children.Count)];
-                int maxLength = evenNumbers.Count;
-                int tempTileNum = evenNumbers[UnityEngine.Random.Range(0, maxLength)];
-                randomChild.GetComponent<Tile>()._TileNumber = tempTileNum;
-                randomChild.GetComponent<Tile>()._IsCorrect = true;
-                correctOnBoard++;
-                randomChild.GetComponent<SpriteRenderer>().sprite = numberSprite[tempTileNum - 1];
-                Debug.Log(tempTileNum);
+                 randomChild = children[UnityEngine.Random.Range(0, children.Count)];
+
+                if(randomChild.GetComponent<Tile>()._IsCorrect == false)
+                {
+                    int maxLength = evenNumbers.Count;
+                    int tempTileNum = evenNumbers[UnityEngine.Random.Range(0, maxLength)];
+                    randomChild.GetComponent<Tile>()._TileNumber = tempTileNum;
+                    randomChild.GetComponent<Tile>()._IsCorrect = true;
+                    correctOnBoard++;
+                    randomChild.GetComponent<SpriteRenderer>().sprite = numberSprite[tempTileNum - 1];
+                    Debug.Log(tempTileNum);
+                    i++;
+                }
+
             }
         }
 
         private void AssignOdd()
         {
-            int maxCorrect = 5;
-            for (int i = 1; i <= maxCorrect; i++)
-            {
-                randomChild = children[UnityEngine.Random.Range(0, children.Count)];
-                int maxLength = oddNumbers.Count;
-                int tempTileNum = oddNumbers[UnityEngine.Random.Range(0, maxLength)];
-                randomChild.GetComponent<Tile>()._TileNumber = tempTileNum;
-                randomChild.GetComponent<Tile>()._IsCorrect = true;
-                correctOnBoard++;
-                randomChild.GetComponent<SpriteRenderer>().sprite = numberSprite[tempTileNum - 1];
-                Debug.Log(tempTileNum);
+            randomChild = children[UnityEngine.Random.Range(0, children.Count)];
 
+            for (int i = 1; i <= maxCorrect;)
+            {
+                if (randomChild.GetComponent<Tile>()._IsCorrect == false)
+                {
+                    int maxLength = oddNumbers.Count;
+                    int tempTileNum = oddNumbers[UnityEngine.Random.Range(0, maxLength)];
+                    randomChild.GetComponent<Tile>()._TileNumber = tempTileNum;
+                    randomChild.GetComponent<Tile>()._IsCorrect = true;
+                    correctOnBoard++;
+                    randomChild.GetComponent<SpriteRenderer>().sprite = numberSprite[tempTileNum - 1];
+                    i++;
+                }
             }
         }
 
@@ -170,6 +182,7 @@ namespace HA
         {
             foreach (Transform child in this.gameObject.transform)
             {
+                child.GetComponent<Tile>()._IsCorrect = false;
                 children.Add(child.gameObject);
             }
         }
